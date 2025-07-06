@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
+
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Uppada+Krishna+Chaitanya..;Fullstack+Web+Developer;Designer+🎨..;Learning+In+Public..;Nice+To+Meet+You+....&center=true"></a></p>
-        
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Uppada+Krishna+Chaitanya..;Full+Stack+Web+Developer;Designer 🎨;Learning+In+Public..;Nice+To+Meet+You+....&center=true"></a></p>
+    
 # 🖥️ Technical Skills: 
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
