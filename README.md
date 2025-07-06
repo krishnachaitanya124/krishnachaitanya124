@@ -44,15 +44,6 @@ Finalist at **Smart India Hackathon 2024** 🇮🇳.
 
 ---
 
-## 📜 Certifications
-
-- ✅ Object Oriented Programming in Java – Coursera  
-- ✅ Python Essentials 1 – Cisco Networking Academy  
-- ✅ Cloud Computing with AWS – HashTek Solutions  
-- 🎖 Smart India Hackathon 2024 – Grand Finale Participation
-
----
-
 ## 📫 Connect With Me
 
 <p align="left">
